@@ -10,7 +10,7 @@
 * [About the Project](#about-the-project)
   * [Description](#Description)
   * [Visuals](#Visuals)
-  * [Tech Stack](#Modules used in the project:)
+  * [Modules used in the project](#Modules-used-in-the-project)
   * [File Structure](#file-structure)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -22,8 +22,6 @@
 
 
 ## About The Project
-<img src="https://github.com/Anupamladdha/VIDEO_TO_SUMMARIZED_TEXT/blob/main/Screenshots/Output1.png" height = 450/> 
-
 
 ### Description
 
@@ -44,8 +42,9 @@
 ### Visuals
 
     We have added screenshots of the output of our project.
+    <img src="https://github.com/Anupamladdha/VIDEO_TO_SUMMARIZED_TEXT/blob/main/Screenshots/Output1.png" height = 450/> 
 
-### Modules used in the project:
+### Modules used in the project
 
     For downloading youtube video:
         youtube-dl
