@@ -21,7 +21,7 @@
 
 
 ## About The Project
-<img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_1.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_3.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_4.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_5.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_9.png" height = 450/>
+<img src="https://github.com/Anupamladdha/VIDEO_TO_SUMMARIZED_TEXT/blob/main/Screenshots/Output1.png" height = 450/> 
 
 
 ### Description
@@ -64,8 +64,14 @@
     **Also we have added requirements.txt file to install modules used for the project.**
 
     For installing nltk you can refer to (https://www.youtube.com/watch?v=Qu8pob9RX64) 
+    
+### Installation
+1. Clone the repo
+```sh
+git clone https://github.com/Kushal-Ajay-Shah/SIMPLE-MINDS.git
+```
 
-SAMPLE INPUT AND OUTPUT:
+### SAMPLE INPUT AND OUTPUT:
 
     Enter youtube link:
     https://www.youtube.com/watch?v=AshTPy3pa5I
