@@ -1,15 +1,30 @@
-NAME:
-
-    VIDEO TO SUMMARIZED TEXT.
-
-PROJECT TEAM:
-
-    Anupam Laddha : 191070040
-    Kushal Shah : 191070065
-    Azeez : 191070011
+# VIDEO_TO_SUMMARIZED_TEXT
 
 
-DESCRIPTION:
+## Team members
+- [Kushal Shah](https://github.com/Kushal-Ajay-Shah)
+
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Description](#Description)
+  * [Visuals](#Visuals)
+  * [Tech Stack](#Modules used in the project:)
+  * [File Structure](#file-structure)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+
+
+
+
+
+## About The Project
+<img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_1.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_3.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_4.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_5.png" height = 450/> <img src="https://github.com/Kushal-Ajay-Shah/Kitchen_Mate/blob/master/screenshots/Page_9.png" height = 450/>
+
+
+### Description
 
     Our Project is based on an original idea which we thought of that would automate things in our life. 
 
@@ -25,11 +40,11 @@ DESCRIPTION:
         6)Summarize the punctuated text.
         7)Display the output in GUI.
 
-VISUALS:
+### Visuals
 
     We have added screenshots of the output of our project.
 
-MODULES USED IN THE PROJECT:
+### Modules used in the project:
 
     For downloading youtube video:
         youtube-dl
