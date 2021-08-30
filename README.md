@@ -4,18 +4,18 @@
 ## Team members
 - [Kushal Shah](https://github.com/Kushal-Ajay-Shah)
 - [Anupam Laddha](https://github.com/Anupamladdha)
+- [Azeez](https://github.com/azeez-72)
 
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Description](#Description)
-  * [Visuals](#Visuals)
-  * [Modules used in the project](#Modules-used-in-the-project)
-  * [File Structure](#file-structure)
+  * [Description](#description)
+  * [Presentation](#presentation)
+  * [Visuals](#visuals)
+  * [Modules used in the project](#modules-used-in-the-project)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
+* [Sample Input and Output](#sample-input-and-output)
 
 
 
@@ -38,11 +38,13 @@
         5)Punctuate the text.
         6)Summarize the punctuated text.
         7)Display the output in GUI.
+      
+### Presentation 
+[Project Overview](https://docs.google.com/presentation/d/1ZXrcSNWf0AMQt-cr2gYh-kJHyNturibQR8BC6oQkLDc/edit#slide=id.gb0f88be3ed_4_5)
 
 ### Visuals
+<img src="https://github.com/Anupamladdha/VIDEO_TO_SUMMARIZED_TEXT/blob/main/Screenshots/Output1.png" height = 450/> 
 
-    We have added screenshots of the output of our project.
-    <img src="https://github.com/Anupamladdha/VIDEO_TO_SUMMARIZED_TEXT/blob/main/Screenshots/Output1.png" height = 450/> 
 
 ### Modules used in the project
 
@@ -65,13 +67,21 @@
 
     For installing nltk you can refer to (https://www.youtube.com/watch?v=Qu8pob9RX64) 
     
+## Getting Started
+    
 ### Installation
 1. Clone the repo
-```sh
+```bash
 git clone https://github.com/Kushal-Ajay-Shah/SIMPLE-MINDS.git
 ```
+* Create a virtual environment and install all dependencies from the requirements.txt file
+```bash
+$ virtualenve your_env
+$ source your_env/bin/activate
+$ pip install -r requirements.txt
+```
 
-### SAMPLE INPUT AND OUTPUT:
+### Sample Input and Output:
 
     Enter youtube link:
     https://www.youtube.com/watch?v=AshTPy3pa5I
@@ -84,7 +94,4 @@ git clone https://github.com/Kushal-Ajay-Shah/SIMPLE-MINDS.git
 
     Summarized text:
     Social media has both advantages and disadvantages. There are various social media platforms like Facebook, Twitter, WhatsApp, accept all use them to communicate and socialize locally, as well as Global social media has both advantages and disadvantages. People have got used to of checking the social media accounts every now, and then they spend a lot of time in checking various post on social media spending. I would like to mention advantages of social media. Now I would like to talk about the drawbacks of social media. Another benefit of social media is that people can showcase their talent. Social media is also used to create awareness amongst people.
-
-FUTURE SCOPE:
-    We wish to host aur project.Also we can replace the text-to-summarization algorithum with a more complex one.We can also use Abstractive Summarization with the help of machine learning models.
 
