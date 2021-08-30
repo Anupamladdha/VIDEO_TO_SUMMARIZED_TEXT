@@ -3,6 +3,7 @@
 
 ## Team members
 - [Kushal Shah](https://github.com/Kushal-Ajay-Shah)
+- [Anupam Laddha](https://github.com/Anupamladdha)
 
 ## Table of Contents
 
