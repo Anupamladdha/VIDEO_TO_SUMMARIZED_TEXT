@@ -70,9 +70,9 @@
 ## Getting Started
     
 ### Installation
-1. Clone the repo
+* Clone the repo
 ```bash
-git clone https://github.com/Kushal-Ajay-Shah/SIMPLE-MINDS.git
+git clone https://github.com/Anupamladdha/VIDEO_TO_SUMMARIZED_TEXT.git
 ```
 * Create a virtual environment and install all dependencies from the requirements.txt file
 ```bash
