@@ -1,0 +1,6 @@
+numpy==1.19.0
+networkx==2.5
+nltk==3.5
+moviepy==1.0.3
+SpeechRecognition==3.8.1
+youtube-dl
